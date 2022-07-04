@@ -1,0 +1,7 @@
+rafce = template of React function
+
+rfcredux = template of React function + Redux
+reduxmap = ^^ just mapStateToProps +MapDispatchToProps
+
+hoc = template for hoc
+hocredux = the same with Redux
